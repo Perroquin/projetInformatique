@@ -1,4 +1,4 @@
-# HEI4 ITI : Paul Jourdan du Mazot le Rat de Magnitot, Thibault Perroquin, Henri Gerardin, Malo Reinert
+
 
 # 1. Description
 Mise en place d'une application web pour gérer une liste de destination pour les semestres universitaire à l'étranger. Chaque élève peut s'inscrire et choisir sa destination préférée et créer une liste de favoris. L'administrateur peut gérer la liste des destinations (en rajouter ou en supprimer) et la liste des élèves inscrits. Un Utilisateur lambda peut avoir accès à la liste des destinations et à la description des universités.
